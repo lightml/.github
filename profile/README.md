@@ -1,12 +1,18 @@
-## Hi there 👋
+## Welcome to Light ML 
 
-<!--
+Light ML is an extension of Light AI, here you will find open-sourced model's for some of our latest products. Our mission is to accelerate humanitys output by contributing to the widespread adoption of AGI, while also developing safe artificial intelligence that benefits humanity. This takes a village to achieve and will be made possible by the community of contributors to our repo's. 
 
-**Here are some ideas to get you started:**
+Removing the shackles of financial constraints, enables us to focus on meaningful change brought by AI that will have a life time of impact on humanity. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+--- 
+Coming Soon 
+
+- [ ] Contributing Information 
+- [ ] Hugging Face Information 
+
+
+## Join our Community 
+
+Our discord has a specific channel dedicated to this repo called #LightML,The remaning channels are dedicated to currently launched products. 
+
+[Join Now](https://discord.gg/aksp6W3t2c)
