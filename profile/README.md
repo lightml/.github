@@ -4,6 +4,10 @@ Light ML is an extension of Light AI, here you will find open-sourced model's th
 
 Removing the shackles of financial constraints and obligations, liberates us to focus on meaningful change brought by AI, that will have a life time of impact on humanity. 
 
+## Our Vision 
+
+Inspired by Andrew NG's 2017 [talk at Standford GSB ](https://www.youtube.com/watch?v=21EiKfQYZXc) We hold true to the conviction that AI is the next electricity and our mission is to be the Light Bulb.
+
 --- 
 Coming Soon 
 
