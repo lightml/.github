@@ -6,7 +6,7 @@ Removing the shackles of financial constraints and obligations, liberates us to 
 
 ## Our Vision 
 
-Inspired by Andrew NG's 2017 [talk at Standford GSB ](https://www.youtube.com/watch?v=21EiKfQYZXc) We hold true to the conviction that AI is the next electricity and our mission is to be the Light Bulb.
+Inspired by Andrew NG's 2017 [talk at Standford GSB ](https://www.youtube.com/watch?v=21EiKfQYZXc) we hold true to the conviction that AI is the next electricity, and our vision is to be the Light Bulb.
 
 --- 
 Coming Soon 
