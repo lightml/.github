@@ -1,8 +1,8 @@
 ## Welcome to Light ML 
 
-Light ML is an extension of Light AI, here you will find open-sourced model's for some of our latest products. Our mission is to accelerate humanitys output by contributing to the widespread adoption of AGI, while also developing safe artificial intelligence that benefits humanity. This takes a village to achieve and will be made possible by the community of contributors to our repo's. 
+Light ML is an extension of Light AI, here you will find open-sourced model's that power some of our latest products. Our mission is to accelerate humanitys output by contributing to the widespread adoption of AGI, while also developing safe artificial intelligence that benefits humanity. This takes a village to achieve and we believe can be made possible by the community of contributors to our repo's. 
 
-Removing the shackles of financial constraints, enables us to focus on meaningful change brought by AI that will have a life time of impact on humanity. 
+Removing the shackles of financial constraints and obligations, liberates us to focus on meaningful change brought by AI that will have a life time of impact on humanity. 
 
 --- 
 Coming Soon 
